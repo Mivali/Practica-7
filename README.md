@@ -4,7 +4,7 @@ Ejecutable e instalable para la práctica número 7 de la asignatura de Desarrol
 Para crear un jar ejecutable de una aplicación, he utilizado Visual Studio Code. He abierto una aplicación cualquiera y he hecho click en Export Jar, al lado de la opción Java Projects. Selecciono la clase main de mi aplicación y hago click en Ok. De esta manera, he creado el jar.
 
 En cuanto al ejecutable .exe, he utilizado la aplicación launch4j. He rellenado los campos, tal y como se explica en el temario, he añadido el JDK y se ha creado sin problemas.
-Los ficheros están en la rama master.
+El fichero del jar está en la rama master. Para el otro fichero, he creado un repositorio nuevo porque me daba error al subirlo en este. El nombre del repositorio nuevo es: practica-7b.
 
 
 
